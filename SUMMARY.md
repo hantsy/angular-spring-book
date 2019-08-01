@@ -4,7 +4,7 @@
 * Part 2: Baking the backend services
   * Chapter 3: [Getting  started with Spring Boot](./ch3.md)
   * Chapter 4: [Cooking the backend RESTful APIs](./ch4.md)
-  * Chapter 5:  [Diving into the Reactive stack](./ch5.md)
+  * Chapter 5: [Diving into the Reactive stack](./ch5.md)
   * Chapter 6: [Testing the backend](./ch6.md)
 * Part 3: Building the frontend UI
   * Chapter 7: [Creating frontend UI with Angular](./ch7.md)
