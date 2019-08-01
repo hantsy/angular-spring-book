@@ -1,25 +1,21 @@
-* Part 1 : Getting your feet wet
-  * Chapter 1: [An introduction to modern application development](./ch1.md)
-  * Chapter 2: [Setup local development environment](./ch2.md)
-* Part 2: Baking the backend services
-  * Chapter 3: [Getting  started with Spring Boot](./ch3.md)
-  * Chapter 4: [Cooking the backend RESTful APIs](./ch4.md)
-  * Chapter 5:  [Diving into the Reactive stack](./ch5.md)
-  * Chapter 6: [Testing the backend](./ch6.md)
-* Part 3: Building the frontend UI
-  * Chapter 7: [Creating frontend UI with Angular](./ch7.md)
-  * Chapter 8: [Testing the frontend UI](./ch8.md)
-* Part 4: Security consideration
-  * Chapter 9: [Protecting the backend APIs](./ch9.md)
-  * Chapter 10: [Handling  Security in Angular](./ch10.md)
-* Part 5:  Putting it into production
-  * Chapter 11:  [Monitoring the Application](./ch11.md)
-  * Chapter 12: [Deploying into Cloud](./ch12.md)
+# Table of contents
 
-​    
+* [Introduction](README.md)
+* [Part 1 : Getting your feet wet](part-1-getting-your-feet-wet/README.md)
+  * [An introduction to modern application development](part-1-getting-your-feet-wet/ch1.md)
+  * [Setup local development environment](part-1-getting-your-feet-wet/ch2.md)
+* [Part 2: Baking the backend services](part-2-baking-the-backend-services/README.md)
+  * [Getting  started with Spring Boot](part-2-baking-the-backend-services/ch3.md)
+  * [Cooking the backend RESTful APIs](part-2-baking-the-backend-services/ch4.md)
+  * [Diving into the Reactive stack](part-2-baking-the-backend-services/ch5.md)
+  * [Testing the backend](part-2-baking-the-backend-services/ch6.md)
+* [Part 3: Building the frontend UI](part-3-building-the-frontend-ui/README.md)
+  * [Creating frontend UI with Angular](part-3-building-the-frontend-ui/ch7.md)
+  * [Testing the frontend UI](part-3-building-the-frontend-ui/ch8.md)
+* [Part 4: Security consideration](part-4-security-consideration/README.md)
+  * [Protecting the backend APIs](part-4-security-consideration/ch9.md)
+  * [Handling  Security in Angular](part-4-security-consideration/ch10.md)
+* [Part 5:  Putting it into production](part-5-putting-it-into-production/README.md)
+  * [Monitoring the Application](part-5-putting-it-into-production/ch11.md)
+  * [Deploying into Cloud](part-5-putting-it-into-production/ch12.md)
 
-​    
-
-​    
-
-​    
