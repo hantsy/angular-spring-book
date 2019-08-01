@@ -2,9 +2,9 @@
 
 In the past years, I have developed lots of projects using Spring, esp. Spring Boot, and also contributed much work in the frontend development. I have dreamed again and again to  write something to record my development notes. 
 
-When I began to write such a book, I found it was really not easy as I imagined.  The Packt publication had initialized a book project named [Hands-On-Full-Stack-Development-with-Spring-Boot-2.0-and-Angular-8](https://github.com/hantsy/Hands-On-Full-Stack-Development-with-Spring-Boot-2.0-and-Angular-8) at the beginning of this year, but unfortunately for some personal reason, I can not commit the content in time, that means this book project was discontinued. 
+When I began to write such a book, I found it was really not easy as I imagined.  The Packt publication had initialized a book project named [Hands-On-Full-Stack-Development-with-Spring-Boot-2.0-and-Angular-8](https://github.com/hantsy/Hands-On-Full-Stack-Development-with-Spring-Boot-2.0-and-Angular-8) at the beginning of this year, but unfortunately for some personal reason, I can not commit the content in time, finally this book project was discontinued. 
 
-I was authorized to deal with the existing work myself. I decided to write a public book  with the same topic.  
+I was authorized to deal with the existing work freely. I decided to write a public book  with the same topic.  
 
 
 
@@ -12,9 +12,11 @@ I was authorized to deal with the existing work myself. I decided to write a pub
 
 If we discuss the modern application architecture,  there are a lot of terminologies can be put on the table, such as RESTful architecture, Microservice, Cloud Native applications, etc..
 
-It is difficult to cover so many topics in one book. In this book, we will focus on techniques of developing RESTful APIs.  As a hands-on book, we will create a simple blog system as example, the frontend UI is a standalone SPA(single page application) which is based on Angular, and the backend is based on Spring Boot. The frontend interacts with the backend via RESTful APIs.  
+It is difficult to cover so many topics in one book. In this book, we will focus on techniques of developing RESTful APIs.  As a hands-on book, we will create a simple blog system as an example, the frontend UI is a standalone SPA(single page application) which is based on Angular framework, and the backend is based on Spring Boot. The frontend interacts with the backend via RESTful APIs.  
 
-I have published a [Gitbook](https://hantsy.gitbooks.io/build-a-restful-app-with-spring-mvc-and-angularjs/content/) before to describe how to create RESTful APIs with Spring Boot(and without Spring Boot) .  There are too many changes  happened in these years.  In this new book, we will move to the latest Spring Boot 2.2, you will see the new features introduced in Spring 5.x is included.  Additionally, the frontend development is as part of this book, and it is evolved to use the new Angular 2+ instead of  the legacy AngularJS(aka Angular 1.x). 
+Several years ago I have published a [Gitbook](https://hantsy.gitbooks.io/build-a-restful-app-with-spring-mvc-and-angularjs/content/)  to describe how to create RESTful APIs with Spring Boot(and without Spring Boot). In the sample codes, I used the legacy AngularJS as frontend framework .  
+
+There are a lot of changes happened in these years.  In this new book, we will move to the latest Spring Boot 2.2, you will see some of the new features introduced in Spring 5.x is included, such as, NoSQL as alternative data storage, and ReactiveStreams support.  Additionally, the frontend development is evolved to use the new Angular 2+ instead of  the legacy AngularJS(aka Angular 1.x),  the description of frontend development is part of this book now. 
 
 ## Audience 
 
@@ -25,7 +27,7 @@ I assume you have some experience of Java EE specification and Spring framework,
 * Practical experience of the modern frontend application development tools, such as Nodejs/NPM, Webpack, RXJS,  Typescript, etc..
 * Basic knowledge of bash shell scripts, Docker, Docker compose etc. 
 
-But the door to the newbie are not closed, if the required skills are not  included in this book , I will add some useful links of  resources for your to learn them by yourself.
+But the door to the newbies is not closed, if the required skills are not  included in this book , I will provide some useful links of those resources for self-studying.
 
 ## Resources
 
@@ -35,7 +37,7 @@ But the door to the newbie are not closed, if the required skills are not  inclu
 
 ## Contribution
 
-I hope it is a living book, as a reader any contribution is welcome, not limited to file an issue to share your idea, create a pull request in GitHub to fix the errors, even my English grammar etc. 
+I hope it is a living book, as a reader any contribution from you is welcome, not limited to file an issue to share your idea, create a pull request in GitHub to fix the errors, even my English grammar etc. 
 
 I have to declare it is still with no guarantee, I can not promise the progress of the writing.
 
