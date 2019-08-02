@@ -16,7 +16,7 @@ It is difficult to cover so many topics in one book. In this book, we will focus
 
 Several years ago I have published a [Gitbook](https://hantsy.gitbooks.io/build-a-restful-app-with-spring-mvc-and-angularjs/content/)  to describe how to create RESTful APIs with Spring Boot(and without Spring Boot). In the sample codes, I used the legacy AngularJS as frontend framework .  
 
-There are a lot of changes happened in these years.  In this new book, we will move to the latest Spring Boot 2.2, you will see some of the new features introduced in Spring 5.x is included, such as, NoSQL as alternative data storage, and ReactiveStreams support.  Additionally, the frontend development is evolved to use the new Angular 2+ instead of  the legacy AngularJS(aka Angular 1.x),  the description of frontend development is part of this book now. 
+There are a lot of changes happened in these years.  In this new book, we will move to the latest Spring Boot 2.2, you will see some of the new features introduced in Spring 5.x is included, such as, NoSQL as alternative data storage, and ReactiveStreams support.  Additionally, the frontend development is evolved to use the new Angular 2+ instead of  the legacy AngularJS(aka Angular 1.x),  the description of frontend development is part of this book now.  
 
 ## Audience 
 
