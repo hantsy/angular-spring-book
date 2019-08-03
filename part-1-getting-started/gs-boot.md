@@ -1,10 +1,10 @@
-# Setup local development environment
+# Getting started with Spring Boot
 
 Before writing any codes, you have  to prepare the development environment in your local system.  The backend APIs is built with Spring Boot,  so you should prepare a Java development environment.
 
 
 
-## Tools for backend development
+## Prerequisites
 
  Firstly you should get a OpenJDK redistribution installed in your system. 
 
@@ -12,9 +12,11 @@ Before writing any codes, you have  to prepare the development environment in yo
 
 According to [the latest Java trends report](https://www.jetbrains.com/lp/devecosystem-2019/jav) from Jetbrains, currently the most widely-used Java version is Java 8, next is Java 11. 
 
-After Java 9, Oracle had changed Java release progress and tried to speed up the Java releases in very six months .   And the next long term support version is  Java 11, which is recommended to use in commercial products. 
+Oracle had ended security updates of Java 8 in the early 2019. For those want to use Java 8 in production, you have to subscribe Oracle commercial support, or switch to other redistributions. 
 
-Oracle had ended security updates of Java 8 in the early 2019.  In this book, we will use Java 11  as Java development environment. Aligned with Spring Boot 2.2, we will try to use the latest  Java language feature from Java 8 to Java 11.  
+Oracle changed Java release progress and tried to accelerate the Java release cycles to very six months.    And the next long term support version is  Java 11, which is recommended to use in commercial products. 
+
+  In this book, we will use Java 11  as Java development environment. Aligned with Spring Boot 2.2, we will try to use the latest  Java language feature from Java 8 to Java 11.  
 
 You can download one of the following JDK 11 redistribution, and get it installed into your system.
 
@@ -102,35 +104,10 @@ The most popular integration development environment in Java communities include
 
 You can choose your favorite one to write Java codes.
 
-## Tools for frontend development
 
 
 
-NodeJS is a Javascript runtime built on [Chrome's V;8 Javascript engine](https://v8.dev/).  It was initially designated for backend Javascript development, but it is very popular in the frontend development. 
 
-### NodeJS
-
-Get the latest NodeJS from [NodeJS website](https://nodejs.org), and install it into your local system.
-
-```sh
-#node -v
-v12.7.0
-```
-
-The most attractive feature of NodeJS is its package management, aka NPM. Nowadays,  most of the popular Javascript projects are published via NPM registry,  which is a central place to share your Javascript package to others.   The NPM client tool is shipped with NodeJS installation by default.
-
-```sh
->npm -v
-6.10.0
-```
-
-Another popular packager is [Yarn](https://yarnpkg.com/en), which is created by Facebook.  Please go to the yarn website to get more details.
-
-### VS Code 
-
-As a sibling project of Visual Studio,  VS Code provides a lightweight code environment for web developers. 
-
-Get a copy of VSCode from [VS Code website](https://code.visualstudio.com), and install it into your system.  To improve Angular code experience, you can install some useful extensions from  VSCode marketplace, eg.  The [Angular Essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials) extension pack  includes several popular plugins which is helpful to build an  Angular application. 
 
 
 
