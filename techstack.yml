@@ -1,0 +1,167 @@
+repo_name: hantsy/angular-spring-book
+report_id: bb04622cf38d54344d2cd540892c5625
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:45:37+00:00'
+requested_by: hantsy
+provider: github
+branch: master
+detected_tools_count: 13
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book
+  detection_source: Repo Metadata
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-autoconfig/greeting-spring-boot-autoconfigure/pom.xml
+  detection_source: codes/ch2/greeting-autoconfig/greeting-spring-boot-autoconfigure/pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2019-07-31 16:30:24.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book
+  detection_source: Repo Metadata
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-log4j2/pom.xml
+  detection_source: codes/ch2/greeting-log4j2/pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2019-07-31 16:30:24.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-autoconfig/greeting-webapp/src/main/resources/application.properties
+  detection_source: codes/ch2/greeting-autoconfig/greeting-webapp/src/main/resources/application.properties
+- name: org.springframework.boot:spring-boot-autoconfigure
+  description: Spring Boot AutoConfigure
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-autoconfig/greeting-spring-boot-autoconfigure/pom.xml
+  detection_source: codes/ch2/greeting-autoconfig/greeting-spring-boot-autoconfigure/pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2019-07-31 16:30:24.000000000 Z
+- name: org.springframework.boot:spring-boot-configuration-processor
+  description: Spring Boot Configuration Processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-autoconfig/greeting-spring-boot-autoconfigure/pom.xml
+  detection_source: codes/ch2/greeting-autoconfig/greeting-spring-boot-autoconfigure/pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2019-07-31 16:30:24.000000000 Z
+- name: org.springframework.boot:spring-boot-starter
+  description: Core starter
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-autoconfig/greeting-spring-boot-starter/pom.xml
+  detection_source: codes/ch2/greeting-autoconfig/greeting-spring-boot-starter/pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2019-07-31 16:30:24.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-jetty
+  description: Starter for using Jetty as the embedded servlet container
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-jetty/pom.xml
+  detection_source: codes/ch2/greeting-jetty/pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2019-07-31 16:30:24.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-log4j2
+  description: Starter for using Log4j2 for logging
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-log4j2/pom.xml
+  detection_source: codes/ch2/greeting-log4j2/pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2019-07-31 16:30:24.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-autoconfig/greeting-spring-boot-autoconfigure/pom.xml
+  detection_source: codes/ch2/greeting-autoconfig/greeting-spring-boot-autoconfigure/pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2019-07-31 16:30:24.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-tomcat
+  description: Starter for using Tomcat as the embedded servlet container
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-war/pom.xml
+  detection_source: codes/ch2/greeting-war/pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2019-07-31 16:30:24.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/hantsy/angular-spring-book/blob/master/codes/ch2/greeting-autoconfig/greeting-webapp/pom.xml
+  detection_source: codes/ch2/greeting-autoconfig/greeting-webapp/pom.xml
+  last_updated_by: hantsy
+  last_updated_on: 2019-07-31 16:30:24.000000000 Z
